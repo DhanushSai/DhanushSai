@@ -56,13 +56,13 @@
 
 <div>
   <h3>Profit & Loss (P&L) Dashboard</h3>
-  <img src="https://via.placeholder.com/600x300?text=P%26L+Dashboard+Preview" alt="P&L Dashboard Preview" width="100%">
+  <img src="https://images.codebasics.io/filters:format(webp)/fit-in/450x450/uploads/learner-portfolio/projects/thumbnail/293622/66215f30ed200/a60c01b010.png" alt="P&L Dashboard Preview" width = "800" height = "200">
   <p>An interactive Power BI dashboard that provides insights into P&L data for financial analysis.</p>
 </div>
 
 <div>
   <h3>Business Insights 360</h3>
-  <img src="https://via.placeholder.com/600x300?text=Business+Insights+Dashboard" alt="Business Insights 360 Dashboard" width="100%">
+  <img src="https://images.codebasics.io/filters:format(webp)/fit-in/450x450/uploads/learner-portfolio/projects/thumbnail/293622/6622690c872f7/6be4434023.png" alt="Business Insights 360 Dashboard" width = "800" height = "200">
   <p>A comprehensive dashboard integrating multiple data sources to offer holistic business insights.</p>
 </div>
 
